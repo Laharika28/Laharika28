@@ -1,4 +1,4 @@
-### Hey Everyone, I'm Laharika, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="30px" /><br>
+### Hey Everyone, I'm Laharika, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="15px" /><br>
 
 <img src="cover.gif" width="1000"><br>
 
