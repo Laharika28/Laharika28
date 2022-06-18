@@ -1,9 +1,9 @@
-### Hey Everyone, I'm Laharika, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="15px" /><br>
+### Hey Everyone, I'm Laharika, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="20px" height="20px" /><br>
 
 <img src="cover.gif" width="1000"><br>
 
 <p>
-  Mostly, you'll see me coding DSA in C++ 👩‍💻 , developing front end applications 💻 or working on some business strategy 💹
+  Mostly, you'll see me coding DSA in C++ 👩‍💻 , developing web applications 💻 or working on some business strategy 💹
 </p>
 
 [![Laharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laharika28)](https://github.com/Laharika28/github-readme-stats&show_icons=true&bg_color=#363e7d&title_color=#fff94c&text_color=#9f9f9f&icon_color=#ddd842&border_color=#000000)
